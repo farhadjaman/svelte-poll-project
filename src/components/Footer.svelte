@@ -4,10 +4,11 @@
 
 <style>
   footer {
-    padding: 40px;
     text-align: center;
-    
-    
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+
   }
   .copyright {
     padding: 20px;
