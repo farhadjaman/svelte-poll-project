@@ -14,9 +14,9 @@ const tabChange=(e)=>{
 let polls=[
 	{
 		id:1,
-		question:'Python or Javascript?',
-		answerA:'Python',
-		answerB:'Javascript',
+		question:'Svelte or Svelte?',
+		answerA:'Svelte',
+		answerB:'Sveltekit',
 		votesA:9,
 		votesB:15
 	}
